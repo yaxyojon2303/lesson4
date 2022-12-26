@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contayner{
+    max-width: 1240px;
+    margin: 0 auto;
+    margin-top: 50px;
+    
+
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+    padding: 58px;
+    gap: 77px;
+    align-items: center;text-align: center;
+    
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: #000000;
+    font-family: sans-serif;
+}
+.new{
+    font-size: 18px;
+    text-align: center;
+    color: #000000;
+    font-family: sans-serif;
+    padding: 22px;
+}
+.card1{
+    border: 1px solid white;
+    width: 320px;
+    height: 194px;
+    margin: 5px;
+}
